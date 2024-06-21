@@ -4,9 +4,6 @@
 The source data collected for this project was provided by the United States Geological Survey Earthquake Hazards Program.
 
 ## Installation and Run Instructions:
-
-
-### Leaflet:
 To avoid the **index.html** being blocked by your computer's Cross-Origin Resource Sharing (CORS) policy, you may need to run the following steps before opening Google Chrome:
 1. Open **Gitbash**  and activate your virtual environment
 2. Type: **python -m http.server 8000**
