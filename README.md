@@ -7,7 +7,7 @@ The source data collected for this project was provided by the United States Geo
 
 
 ### Leaflet:
-To avoid the **index.html** being blocked by your computer's Cross-Origin Resource Sharing (CORS) policy, you will need to run the following steps before opening Google Chrome:
+To avoid the **index.html** being blocked by your computer's Cross-Origin Resource Sharing (CORS) policy, you may need to run the following steps before opening Google Chrome:
 1. Open **Gitbash**  and activate your virtual environment
 2. Type: **python -m http.server 8000**
 3. In your web browser, navigate to: **http://localhost:8000**
