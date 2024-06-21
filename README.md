@@ -32,6 +32,9 @@ This code was compiled and written by me for the leaflet-challenge for the 2024 
 
 ### Additional credits are declared below:
 
+#### Colour palattes for .html:
+https://htmlcolorcodes.com/ (accessed 21 June 2024).
+
 #### Creating legends on white barkgrounds, appropriately coloured to the depth of the earthquake:
 jonkwiatkowski: https://github.com/jonkwiatkowski/Leaflet/tree/main/Leaflet-Part-1 (accessed 21 June 2024). This was modified to reflect the colour scale used in this visualisation.
 
