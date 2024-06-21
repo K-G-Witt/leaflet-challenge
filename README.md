@@ -17,8 +17,15 @@ This repo contains the following:
 2. **logic.js:** located within the **static** subfolder, this is called by the **index.html** to support the visualisation
 3. **style.css:** located within the **static** subfolder, this is called by the **index.html** to support the visualisation
 
-Once launched, the Google Chrome page should look something like this:
+Once launched, the Google Chrome page should look similar to this screenshot:
+
 ![LaunchScreenshot](https://github.com/K-G-Witt/leaflet-challenge/assets/156146173/4b9c1622-007e-4e7d-bfd3-d854221c6841)
+
+Clicking on an individual marker will trigger the launch of a pop-up which displays information on the location, magnitude, depth (in kilometres), date and time. This should look similar to this screenshot:
+
+![TriggerEventScreenshot](https://github.com/K-G-Witt/leaflet-challenge/assets/156146173/d2c4d8a6-de43-49bd-9e8b-0af9a6c65d56)
+
+Please note, however, that the United States Geological Survey dynamically updates the .json every minute. It is therefore possible that the exact data you obtain on execution may be different from these screenshots.
 
 ## Credits:
 This code was compiled and written by me for the leaflet-challenge for the 2024 Data Analytics Boot Camp hosted by Monash University. 
