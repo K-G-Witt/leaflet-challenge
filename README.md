@@ -13,37 +13,23 @@ To avoid the **index.html** being blocked by your computer's Cross-Origin Resour
 
 ## Usage Instructions:
 This repo contains the following:
-
-
-### Leaflet:
-1. **index.html** is the script to recreate the mapping visualisation in Google Chrome
-2. **logic.js** is called by the **index.html** to support the mapping visualisation
-3. **style.css** is called by the **index.html** to support the mapping visualisation
-4. **us-states.json** is called by the **index.html** to define the boundaries of the US States
+1. **index.html:** the script to recreate the visualisation in Google Chrome
+2. **logic.js:** located within the **static** subfolder, this is called by the **index.html** to support the visualisation
+3. **style.css:** located within the **static** subfolder, this is called by the **index.html** to support the visualisation
 
 Once launched, the Google Chrome page should look something like this:
-
-
-
+![LaunchScreenshot](https://github.com/K-G-Witt/leaflet-challenge/assets/156146173/4b9c1622-007e-4e7d-bfd3-d854221c6841)
 
 ## Credits:
 This code was compiled and written by me for the leaflet-challenge for the 2024 Data Analytics Boot Camp hosted by Monash University. 
 
 ## Additional credits are declared below:
 
-### Disabling favicon requests in .html:
-https://stackoverflow.com/questions/1321878/how-to-prevent-favicon-ico-requests (Accessed June 10 2024).
-
-### Creating dropdown menus in .html:
-https://www.w3schools.com/howto/howto_js_dropdown.asp (Accessed June 10 2024).
+### Creating legends on white barkgrounds, appropriately coloured to the depth of the earthquake:
+I modified jonkwiatkowski's code to the colours used in my visualisation: https://github.com/jonkwiatkowski/Leaflet/tree/main/Leaflet-Part-1 (accessed 21 June 2024).
 
 ### Reference material:
 US Geological Survey Earthquake Hazards Program, Magnitude 2.5+ Earthquates, Past 30 Days: https://earthquake.usgs.gov/earthquakes/feed/v1.0/summary/2.5_month.geojson (accessed 21 June 2024).
-
-### Selecting only filtered data from .csv in index.js:
-https://stackoverflow.com/questions/10615290/select-data-from-a-csv-before-loading-it-with-javascript-d3-library (Accessed June 13 2024).
-
-
 
 
 
