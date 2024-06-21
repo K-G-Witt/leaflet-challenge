@@ -36,7 +36,7 @@ This code was compiled and written by me for the leaflet-challenge for the 2024 
 https://htmlcolorcodes.com/ (accessed 21 June 2024).
 
 #### Creating legends on white barkgrounds, appropriately coloured to the depth of the earthquake:
-jonkwiatkowski: https://github.com/jonkwiatkowski/Leaflet/tree/main/Leaflet-Part-1 (accessed 21 June 2024). This was modified to reflect the colour scale used in this visualisation.
+jonkwiatkowski: https://github.com/jonkwiatkowski/Leaflet/tree/main/Leaflet-Part-1 (accessed 21 June 2024). This was modified to reflect the colour palatte used in this visualisation.
 
 #### Reference material:
 US Geological Survey Earthquake Hazards Program, Magnitude 2.5+ Earthquates, Past 30 Days: https://earthquake.usgs.gov/earthquakes/feed/v1.0/summary/2.5_month.geojson (accessed 21 June 2024).
