@@ -1,5 +1,5 @@
 # leaflet-challenge
-## Occurance of Magnitude 2.5+ Earthquakes in the United States, past 30 days
+# Occurance of Magnitude 2.5+ Earthquakes in the United States, past 30 days
 
 The source data collected for this project was provided by the United States Geological Survey Earthquake Hazards Program.
 
